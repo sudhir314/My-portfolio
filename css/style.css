@@ -473,6 +473,7 @@ a.my-cv:hover {
   font-size: 1.8rem;
   line-height: 150%;
   padding: 1.5rem 0;
+  white-space: nowrap;
 }
 .social-media {
   margin-top: 4rem;
