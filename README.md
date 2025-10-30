@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 You can view the live deployed website here:
 
-**[https://your-site-name.netlify.app] https://this-is-my-portfolio-sudhir.netlify.app**
+ https://this-is-my-portfolio-sudhir.netlify.app
 
 ---
 
